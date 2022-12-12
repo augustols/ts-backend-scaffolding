@@ -17,7 +17,7 @@
   "author": "augustols",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "inversify": "^5.0.1",
     "mongodb": "^3.5.5",
     "reflect-metadata": "^0.1.13",
